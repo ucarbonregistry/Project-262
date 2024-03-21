@@ -59,9 +59,9 @@ PV generating unit. Several PV panels mounted on a frame are termed as PV Array.
 activity leads to reduce the GHG emissions as it displaces power from fossil fuel-based electricity
 generation in the regional grid.
 ______________
-ISSUED DATE: 23/03/2024
+ISSUED DATE: 21/03/2024
 
-tOTAL iSSUED: 2119
+TOTAL ISSUED CoUs: 2119
 
 MP 01-15/06/2021-31/12/2022
 __________________________
